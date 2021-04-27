@@ -1,5 +1,3 @@
-package me.linkaiwu.Magpie;
-
 import java.util.Scanner;
 
 public class MagpieRunner {

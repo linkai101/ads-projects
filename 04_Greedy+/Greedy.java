@@ -1,5 +1,3 @@
-package wu.linkaiwu.GreedyPlus;
-
 import java.util.Hashtable;
 import java.util.Scanner;
 

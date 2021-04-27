@@ -1,5 +1,3 @@
-package wu.linkaiwu.GreedyPlus;
-
 import java.util.Scanner;
 
 public class Exercises {

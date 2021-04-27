@@ -1,5 +1,3 @@
-package me.linkaiwu.Magpie3;
-
 public class StringExplorer
 {
 

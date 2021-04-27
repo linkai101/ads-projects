@@ -1,5 +1,3 @@
-package me.linkaiwu.Magpie;
-
 public class Magpie {
 
 	public String getGreeting()

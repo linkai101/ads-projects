@@ -1,5 +1,3 @@
-package me.linkaiwu.Paint;
-
 import java.util.Scanner;
 
 public class Paint {

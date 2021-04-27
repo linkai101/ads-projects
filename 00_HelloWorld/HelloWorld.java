@@ -1,5 +1,3 @@
-package me.linkaiwu.HelloWorld;
-
 import java.util.Scanner;
 
 public class HelloWorld {

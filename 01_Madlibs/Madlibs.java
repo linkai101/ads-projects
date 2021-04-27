@@ -1,12 +1,3 @@
-/*
- * Project 01 - Madlibs
- * ADSA
- * Linkai Wu 9/9/2020
- * 
- */
-
-package me.linkaiwu.Madlibs;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;
