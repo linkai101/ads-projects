@@ -1,0 +1,6 @@
+Dragon
+The {color} dragon is the {superlative} dragon of all.
+It has {adjective 1} {plural body part}, and a {body part} shaped like a {noun 1}.
+It loves to eat {plural animal}, although it will feast on nearly anything.
+It is {adjective 2} and {adjective 3}.
+You must be {adjective 4} around it, or you may end up as it`s meal!

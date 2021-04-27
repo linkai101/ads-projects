@@ -1,0 +1,9 @@
+The Three Little Pigs
+Once upon a time, there were three little pigs who decided to build themselves houses.
+The first pig was {adjective 1}, and he built his house out of {plural noun 1}.
+The second pig worked very {adverb 1} and built a house out of {plural noun 2}.
+But the third pig was {adjective 2}. He built his house out of {plural noun 3} and {type of liquid 1}.
+Then one day a big wolf came along.
+When he saw the first pig's house, he {past tense verb 1} and he {past tense verb 2} until he blew it down.
+Then he blew down the second pig's house.
+But no matter how hard he {past tense verb 3}, he couldn't blow down the third pig's house.
