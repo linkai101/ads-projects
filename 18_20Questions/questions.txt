@@ -1,0 +1,30 @@
+Q:
+Is it an animal?
+Q:
+Can it fly?
+A:
+bird
+Q:
+Does it have a tail?
+A:
+mouse
+Q:
+Is it an insect?
+A:
+insect
+A:
+spider
+Q:
+Does it have wheels?
+A:
+bicycle
+Q:
+It it nice?
+Q:
+Is it an electronic device?
+A:
+phone
+A:
+TA
+A:
+teacher
